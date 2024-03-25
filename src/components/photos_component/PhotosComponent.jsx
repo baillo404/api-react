@@ -18,7 +18,7 @@ const PhotosComponent = () => {
     }, [])
     
     return (
-        <div className="container-fluid">
+        <div className="container">
             <Nav />
             <h1 className="mt-5 mb-4">Photos</h1>
             <div className="row">
