@@ -5,7 +5,7 @@ export default function Accueil() {
         <>
            <div className="container">
             <Nav />
-            <h1>Welcome to my web site</h1>
+            <h1 className="card bg-secondary text-center py-5">Welcome to my web site</h1>
            </div>
         </>
     );
